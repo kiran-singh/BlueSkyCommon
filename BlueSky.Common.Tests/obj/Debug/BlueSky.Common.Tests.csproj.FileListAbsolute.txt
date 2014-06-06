@@ -1,0 +1,13 @@
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\BlueSky.Common.Tests.dll
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\BlueSky.Common.Tests.pdb
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\BlueSky.Common.dll
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\BlueSky.Common.pdb
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\obj\Debug\BlueSky.Common.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\obj\Debug\BlueSky.Common.Tests.dll
+C:\Users\Kiran\Documents\Visual Studio 2013\Projects\BlueSky.Common\BlueSky.Common.Tests\obj\Debug\BlueSky.Common.Tests.pdb

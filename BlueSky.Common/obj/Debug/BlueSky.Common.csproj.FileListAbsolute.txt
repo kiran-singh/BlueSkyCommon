@@ -1,0 +1,5 @@
+C:\Users\Kiran\Documents\visual studio 2013\Projects\BlueSky.Common\BlueSky.Common\bin\Debug\BlueSky.Common.dll
+C:\Users\Kiran\Documents\visual studio 2013\Projects\BlueSky.Common\BlueSky.Common\bin\Debug\BlueSky.Common.pdb
+C:\Users\Kiran\Documents\visual studio 2013\Projects\BlueSky.Common\BlueSky.Common\obj\Debug\BlueSky.Common.csprojResolveAssemblyReference.cache
+C:\Users\Kiran\Documents\visual studio 2013\Projects\BlueSky.Common\BlueSky.Common\obj\Debug\BlueSky.Common.dll
+C:\Users\Kiran\Documents\visual studio 2013\Projects\BlueSky.Common\BlueSky.Common\obj\Debug\BlueSky.Common.pdb
